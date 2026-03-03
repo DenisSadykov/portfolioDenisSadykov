@@ -1,2 +1,9 @@
 .DS_Store
 **/.DS_Store
+
+# do not publish school tasks
+README_RUS.md
+**/README_RUS.md
+**/subject*
+**/task*
+**/.git
